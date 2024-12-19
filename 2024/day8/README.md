@@ -1,4 +1,4 @@
-# Day 7 Review
+# Day 8 Review
 
 ### Input
 A 2D array of alphanumeric characters joined by periods (`.`).
